@@ -21,7 +21,7 @@
 # my-photo-sharing-app
 
 # add the following package name
-com.google.codelab.photos.sharing
+# com.google.codelab.photos.sharing
 
 # add the SHA-1 certificate fingerprint from your debug.keystore
 
